@@ -7,31 +7,31 @@ This project demonstrates how to analyze inventory, discounts, and revenue perfo
 
 The following business problems were solved using SQL:
 
-Top 10 Best-Valued Products by Discount Percentage
+1. Top 10 Best-Valued Products by Discount Percentage
 
-Identified the top 10 products offering the highest discounts to help understand pricing strategies and promotional effectiveness.
+2. Identified the top 10 products offering the highest discounts to help understand pricing strategies and promotional effectiveness.
 
-High MRP Products That Are Out of Stock
+3. High MRP Products That Are Out of Stock
 
-Detected premium products with high MRP values that are currently out of stock, highlighting restocking priorities.
+4. Detected premium products with high MRP values that are currently out of stock, highlighting restocking priorities.
 
-Estimated Revenue by Category
+5. Estimated Revenue by Category
 
-Calculated total revenue for each product category based on selling price and quantity sold, offering insights into category-level performance.
+6. Calculated total revenue for each product category based on selling price and quantity sold, offering insights into category-level performance.
 
-Products with Price > 500 and Discount < 10%
+7. Products with Price > 500 and Discount < 10%
 
-Filtered premium products with minimal discounts, useful for pricing optimization and premium product strategy.
+8. Filtered premium products with minimal discounts, useful for pricing optimization and premium product strategy.
 
-Top 5 Categories by Average Discount Percentage
+9. Top 5 Categories by Average Discount Percentage
 
-Ranked categories offering the highest average discounts, helping identify areas of aggressive promotions.
+10. Ranked categories offering the highest average discounts, helping identify areas of aggressive promotions.
 
-Product Segmentation: Low, Medium, Bulk
+11.Product Segmentation: Low, Medium, Bulk
 
 Grouped products based on quantity sold into segments (Low, Medium, Bulk) for inventory planning and stock strategy.
 
-Total Inventory Weight per Category
+12. Total Inventory Weight per Category
 
 Computed total weight per category to support logistics, storage, and supply chain planning.
 
@@ -39,19 +39,21 @@ Computed total weight per category to support logistics, storage, and supply cha
 
 A comprehensive interactive Power BI dashboard was created to visualize insights from the SQL queries:
 
-📦 Total Revenue, Items Sold, and Stock Overview
+1. 📦 Total Revenue, Items Sold, and Stock Overview
 
-📊 Revenue by Category
+2. 📊 Revenue by Category
 
-📉 Discounted vs. Non-Discounted Revenue
+3. 📉 Discounted vs. Non-Discounted Revenue
 
-🏷️ Top 10 Products by Discount Percentage
+4. 🏷️ Top 10 Products by Discount Percentage
 
-📉 Average Discount by Category
+5. 📉 Average Discount by Category
 
-📉 High MRP Low Discount Products
+6. 📉 High MRP Low Discount Products
 
-📦 Count of Stock by Product Name
+7. 📦 Count of Stock by Product Name
+<img width="1309" height="724" alt="Screenshot 2025-09-29 144258" src="https://github.com/user-attachments/assets/bfc713e4-291c-46ed-bc5c-563c053f0f6a" />
+
 
 🛠️ Tools & Technologies
 
